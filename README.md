@@ -1,1 +1,2 @@
 # ITILAI_EDGE
+This repository contains a jupyter notebook accompanied by the spreadsheet(.csv format) of the Haberman survival dataset which is a summary of patients having breast cancer and whether they survived either less than or more than 5 years based on a label listed under 'Survival Status' column of the dataset. The notebook features different commands and visualizations along with text describing each cell execution. 
